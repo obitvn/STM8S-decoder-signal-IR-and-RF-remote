@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=RELAY1 Pin=C5-2
+Added Pin To Net: NetName=RELAY2 Pin=C5-3
+Added Pin To Net: NetName=RELAY3 Pin=C5-4
+Added Pin To Net: NetName=RELAY4 Pin=C5-5
+Added Room: Name=HOC_LENH_STM8S

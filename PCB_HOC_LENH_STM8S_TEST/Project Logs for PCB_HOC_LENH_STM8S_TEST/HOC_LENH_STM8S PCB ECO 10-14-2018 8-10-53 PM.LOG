@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-6
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VCC Pin=C5-6
+Added Room: Name=HOC_LENH_STM8S
